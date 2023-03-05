@@ -20,7 +20,10 @@ h2
  }
 h3
 {
-	display: inline-block;
+	/*display: inline-block;*/
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
 }
 span
 {
